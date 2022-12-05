@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zorozi
 - 👀 I’m interested in new challenges
-- 🌱 I’m currently learning coding with emphasis on front end web development.
-- 💞️ I’m looking to collaborate on JavaScript
+- 🌱 I’m a Front-End Engineer
+- 💞️ I’m looking to collaborate on App development
 - 📫 How to reach me @Zorozi
 
 <!---
